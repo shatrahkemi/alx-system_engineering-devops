@@ -1,2 +1,2 @@
 #!/bin/bash
-export path='/action:$path'
+echo "hello user" $(whoami) 
