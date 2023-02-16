@@ -1,2 +1,2 @@
 #!/bin/bash
-printf >'hello user',alias hello user ='w'
+echo printf >'hello user',alias hello user ='w'
