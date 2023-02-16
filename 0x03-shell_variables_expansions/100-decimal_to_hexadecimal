@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n' 85
+read -p "enter a decimalnumber: "num| hex_num=$(printf "%X" $num) |echo the hexadecimal representation is $hex_num"
